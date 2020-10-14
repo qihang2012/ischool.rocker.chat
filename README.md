@@ -1,1 +1,1 @@
-# ischool.rocker.chat
+# ischool.rocket.chat
